@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitAny": false,
+    "noResolve": false,
+    "sourceMap": true,
+    "lib": [
+      "dom",
+      "es2015.promise",
+      "es5"
+    ],
+    "rootDir": "src"
+  }
+}
