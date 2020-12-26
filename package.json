@@ -6,7 +6,8 @@
   "scripts": {
     "test": "karma start",
     "dev": "webpack-dev-server --inline --hot",
-    "build": "webpack -p"
+    "build": "webpack",
+    "start": "webpack serve --port 8080"
   },
   "keywords": [],
   "author": "",
